@@ -128,5 +128,3 @@ Employee-Analytics-Dashboard/
 ├── Employee_Dashboard.pdf
 └── README.md
 
-<img width="689" height="553" alt="image" src="https://github.com/user-attachments/assets/cbb4148c-9962-40db-a8cb-1f0b538d9cee" />
-
