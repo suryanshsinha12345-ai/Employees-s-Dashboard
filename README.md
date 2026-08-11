@@ -6,10 +6,6 @@ This project presents an interactive **Employee Analytics Dashboard** designed t
 
 The dashboard transforms employee-level data into meaningful visual insights that can help HR and business teams understand workforce composition, salary patterns, job-role distribution, employee trends, and geographic presence.
 
-
-<img width="698" height="562" alt="image" src="https://github.com/user-attachments/assets/2b877228-1f4d-4ae8-8207-75a968e7c58e" />
-
-
 ---
 
 ## 🎯 Business Objective
