@@ -1,6 +1,6 @@
-# 👥 Employee Analytics Dashboard
+# Employee Analytics Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents an interactive **Employee Analytics Dashboard** designed to analyze workforce demographics, compensation, employee distribution, and organizational trends.
 
@@ -8,7 +8,7 @@ The dashboard transforms employee-level data into meaningful visual insights tha
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 The primary objective of this project is to provide a centralized view of employee data and answer key HR-related questions such as:
 
@@ -23,7 +23,7 @@ The primary objective of this project is to provide a centralized view of employ
 
 ---
 
-## 📌 Key KPIs
+## Key KPIs
 
 The dashboard provides the following key performance indicators:
 
@@ -37,7 +37,7 @@ The dashboard provides the following key performance indicators:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ### 1. Employee Overview
 Provides a high-level summary of the organization's workforce through key KPIs such as total employees, working employees, median salary, and exit rate.
@@ -91,7 +91,7 @@ These filters allow users to drill down into specific employee segments and perf
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 Some observations from the dashboard include:
 
@@ -105,7 +105,7 @@ Some observations from the dashboard include:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - Data Analysis
 - Data Visualization
@@ -120,7 +120,7 @@ Some observations from the dashboard include:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Employee-Analytics-Dashboard/
